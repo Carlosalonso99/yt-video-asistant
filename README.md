@@ -74,7 +74,7 @@ pip install -r requirements.txt
    - La transcripción del video se procesa con `RecursiveCharacterTextSplitter` para dividir el contenido en fragmentos manejables de texto, con un tamaño de 1000 caracteres y un solapamiento de 100.
    - Los fragmentos se almacenan y procesan para su posterior búsqueda.
 
-- **Búsqueda basada en similitud con FAISS**: 
+- **Búsqueda basada en similitud con `FAISS`**: 
    - El sistema utiliza FAISS (`Facebook AI Similarity Search`) para indexar los fragmentos de transcripción y realizar búsquedas rápidas y precisas basadas en similitud de contenido cuando se hacen preguntas sobre el video.
 
 - **Modelos GPT-3.5**:
