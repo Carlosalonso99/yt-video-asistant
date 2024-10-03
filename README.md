@@ -36,9 +36,9 @@ pip install -r requirements.txt
 
 1. **Clonar el repositorio**:
 
-   ```bash
+```bash
    git clone https://github.com/Carlosalonso99/yt-video-assistant.gitZZ
-```
+  ```
 
 2. **Instalar dependencias**:
 
