@@ -30,6 +30,7 @@ Para instalar las dependencias necesarias, ejecuta:
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 ### Instalación
 
