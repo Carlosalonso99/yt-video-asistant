@@ -55,7 +55,7 @@ pip install -r requirements.txt
 4. **Ejecutar la aplicación**:
 
    ```bash
-   python AppAsistenteVideos.py
+   python app.py
    ```
 
 ### Uso
