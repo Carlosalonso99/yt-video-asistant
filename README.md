@@ -37,21 +37,25 @@ pip install -r requirements.txt
 
    ```bash
    git clone https://github.com/Carlosalonso99/yt-video-assistant.gitZZ
+```
 
 2. **Instalar dependencias**:
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 3. **Configurar el archivo .env**:
 
    ```bash
    OPENAI_API_KEY=tu_api_key_de_openai
+   ```
 
 4. **Ejecutar la aplicación**:
 
    ```bash
    python AppAsistenteVideos.py
+   ```
 
 ### Uso
 
